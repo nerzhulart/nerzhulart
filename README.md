@@ -20,7 +20,7 @@ I’m a software engineer at [JetBrains](https://www.jetbrains.com/) since 2013,
 
 ## Languages and stack
 
-* **Kotlin** – daily driver for tooling, backend and agent-related work, with a strong focus on **Kotlin coroutines** and **Flow** internals
+* **Kotlin** – daily driver for tooling, backend and agent-related work, with a strong focus on **Kotlin coroutines** and **Flow** idiomatic usage
 * **C#** – primary language for Rider/.NET tooling and debugger work
 * JVM, .NET, IntelliJ Platform, build tooling, protocols and integration layers
 
