@@ -44,3 +44,7 @@ I’m a software engineer at [JetBrains](https://www.jetbrains.com/) since 2013,
 
 * Blog (work in progress): **[https://nerzhulart.github.io](https://nerzhulart.github.io)**
 * GitHub: **[https://github.com/nerzhulart](https://github.com/nerzhulart)**
+
+## Recent writing
+
+- [Strictly typed JSON-RPC in Kotlin](https://nerzhulart.github.io/blog/strictly-typed-jsonrpc-kotlin/)
